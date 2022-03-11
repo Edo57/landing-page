@@ -1,6 +1,6 @@
 
 .container{
-    text-align: center;  
+      
     background-color: #fff;
     }
 .container1{
@@ -10,7 +10,7 @@ background-color: #1f2937;
  font-size:30px;   
 }
 .container2{
-    
+    text-align: center;
     background-color: #fff;
     padding: 40px;
     font-size:30px;
@@ -19,8 +19,26 @@ background-color: #1f2937;
 .container3{
     
     background-color: #e5e7eb;
+    padding: 160px;
+    font-size:36px;
+    
+}
+footer{
+    
+    background-color: #fff;
     padding: 60px;
     font-size:36px;
+    border-radius: 10px;
+    
+}
+.container4{
+    text-align: center;
+    background-color: #164dbb;
+    border-radius: 10px;
+    padding: 38px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    width: auto;
     
 }
 .top{
@@ -29,12 +47,12 @@ background-color: #1f2937;
     height: 200px;
 }
 #photo{
-    float: right;
+    
     width: 330px;
     height: 200px;
 
 }
 figure{
     display: inline-block;
-    text-align: center;
+   
 }

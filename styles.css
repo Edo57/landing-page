@@ -1,7 +1,40 @@
-img{
-    display: block;
-    margin:0px auto ;
-    width:auto;
-    height:350px;
+
+.container{
+    text-align: center;  
+    background-color: #fff;
+    }
+.container1{
+background-color: #1f2937;
+ color: #fff;
+ padding: 70px;
+ font-size:30px;   
+}
+.container2{
     
+    background-color: #fff;
+    padding: 40px;
+    font-size:30px;
+    
+}
+.container3{
+    
+    background-color: #e5e7eb;
+    padding: 60px;
+    font-size:36px;
+    
+}
+.top{
+    float: left;
+    width: 230px;
+    height: 200px;
+}
+#photo{
+    float: right;
+    width: 330px;
+    height: 200px;
+
+}
+figure{
+    display: inline-block;
+    text-align: center;
 }
